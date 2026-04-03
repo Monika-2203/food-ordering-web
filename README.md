@@ -1,4 +1,4 @@
-# Food ordering website #
+# FOOD ORDERING WEBSITES #
 A responsive and user-friendly Food Ordering Website built using HTML, CSS, JavaScript.
 This project allows users to browse food items, add them to cart and view the total bill.
 
