@@ -20,6 +20,6 @@ FOOD-ORDERING-WEBSITE/
 |
 |_____ style.css (Styling file)
 |
-|_____ script.js (Lofic file)
+|_____ script.js (Logic file)
 |
 |_____ README.md (Project documentation)
